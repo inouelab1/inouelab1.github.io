@@ -1,0 +1,9 @@
+READ ME
+
+The pictures in the carousels should have an aspect ratio of 16:10.
+
+By default, links will have color. This can be turned off with class="text-reset"
+
+target="_blank" makes links open in a new tab
+
+The original file for the lab logo (top left corner) is medicine.shield.small.black.svg and can be opened in Inkscape (open source) for future editing. See the CCD drive (fshahid2) for file.
